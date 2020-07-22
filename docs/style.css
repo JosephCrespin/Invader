@@ -45,6 +45,8 @@ footer {
     height: 50px;
     color: whitesmoke;
     font-size: 15.5px;
+    font-weight: bold;
+    font-style: italic;
     text-align: center;
     text-shadow: black 3px 3px 10px;
 }
@@ -61,7 +63,7 @@ footer {
   background-color: var(--kolor);
   box-shadow: 3px 4px 20px rgb(0, 0, 0);
   transition: transform 0.2s ease-in-out;
-  font-size: 14px;
+  font-size: 13.5px;
 }
 
 #spaceInvader {
