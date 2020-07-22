@@ -16,7 +16,6 @@
 
 body {
   background-image: url('bg.gif');
-  overflow-y: hidden;
 }
 
 main {
@@ -73,7 +72,7 @@ footer {
 
 .cubito {
   background-color: var(--kolor);
-  box-shadow: outset black 10px 1px 1px 1px;
+  box-shadow: inset rgb(255, 255, 255) 4px 2px 20px;
 }
 .cubo1 {
     grid-column: 3;

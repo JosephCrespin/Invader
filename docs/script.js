@@ -13,6 +13,7 @@ function randomColor() {
 }
 
 //  ============ BACKGORUND KOLOR ================
+//  NO BORRES ESTO ISMA LACRA  
 //
 // document.querySelector('#botonete').addEventListener('click', function () {
 //   let cubitoColor = document.querySelector('.cubito');
